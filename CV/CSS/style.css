@@ -1,0 +1,13 @@
+header
+    {
+        background-color:rgb(137, 252, 233); 
+    }
+header p
+    {
+        background-color: rgb(137, 252, 233); text-align: center;
+    }
+header img.foto
+    {
+        background-size: 50px 50px ;
+    }
+    
